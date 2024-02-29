@@ -1,0 +1,89 @@
+[
+    {
+      "id": 1,
+      "title": "black jacket",
+      "price": 15,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/15/c1/7c/15c17cefb038e37c0b5a165c99c77fd2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Green Jacket",
+      "price": 89,
+      "rating": 5.0,
+      "images": "https://i.pinimg.com/564x/a2/aa/04/a2aa042c76bb7d3d103cc07087578e71.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Jacket",
+      "price": 10,
+      "rating": 3.0,
+      "images": "https://i.pinimg.com/564x/5c/e0/06/5ce006627478ac776062a6b86518af29.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cute Jacket",
+      "price": 20,
+      "rating": 2.0,
+      "images": "https://i.pinimg.com/564x/f9/5a/e7/f95ae7a12af9927272701cede2c8b118.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Brand Shoes",
+      "price": 9,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/97/ca/89/97ca89dfccd798b32112622162ff1a6e.jpg"
+    },
+    {
+      "id": 6,
+      "title": "White Shoes",
+      "price": 75,
+      "rating": 5.0,
+      "images": "https://i.pinimg.com/564x/11/2a/c7/112ac7310eeaedd3cc4380e12f4d7b6e.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Blue Shoes",
+      "price": 19,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/50/57/8c/50578cc381f35973ffde85686743e12e.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Shoes",
+      "price": 10,
+      "discountPercentage": 10.23,
+      "rating": 1.0,
+      "images": "https://i.pinimg.com/564x/8d/44/da/8d44da64868793261e159da724cf0f57.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cute Bag in our shop",
+      "price": 31,
+      "rating": 2.0,
+      "images": "https://i.pinimg.com/564x/83/a0/28/83a028bc96bac83bad1b74c320f111fc.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Shirt",
+      "price": 16,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/5c/dd/66/5cdd66c6ddcdf46b33a427373b0cdb0a.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Blue Shirt",
+      "price": 19,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/d9/53/90/d95390190d9af7bc0492126d75404409.jpg"
+    }
+    ,
+    {
+      "id": 12,
+      "title": "Black Shirt",
+      "price": 27,
+      "rating": 4.0,
+      "images": "https://i.pinimg.com/564x/83/6b/48/836b482aaec051c63887e8afd756b0a5.jpg"
+    }
+    
+]
